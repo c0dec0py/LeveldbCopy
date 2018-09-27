@@ -1,3 +1,3 @@
 # LeveldbCopy
-a manual copy of leveldb by myself
-learn code by copying code first :)
+A manual copy of leveldb by myself.
+Learn code by copying code first :)
